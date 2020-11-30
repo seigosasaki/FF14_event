@@ -1,24 +1,30 @@
-# README
+# FF14_event
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
 
-Things you may want to cover:
+公式でのイベントではなくユーザ側が企画したイベントを掲載。
+また、自分がいいと思った SS,コーデなどをユーザで投稿できる。
 
-* Ruby version
+### ターゲットユーザ
 
-* System dependencies
+- 有志でやるイベントが好きなユーザー
+- みんなでワイワイするのが好きな人
+- 自分の自慢の SS をみんなに見せたい人
 
-* Configuration
+### 主な利用シーン
 
-* Database creation
+- イベント告知する際に使う。twitter での告知では見逃す人がいる可能性があるので
+  　有志で行っているイベントをこのサイトでまとめる。
+- 参考にしたいコーデがあった場合参考にすることができる。
 
-* Database initialization
+### 機能一覧
 
-* How to run the test suite
+<https://docs.google.com/spreadsheets/d/1STeit6Nt9ATg4tqPjtpq6Qwtioh_izNz/edit#gid=1014074285>
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
 
-* Deployment instructions
-
-* ...
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JS ライブラリ：jQuery
+- 仮想環境：Vagrant,VirtualBox
